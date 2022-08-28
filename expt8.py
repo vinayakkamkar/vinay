@@ -1,0 +1,12 @@
+text='welcome to MLBP'
+print(text)
+print("\n to convert upper case:")
+print(text.upper())
+print("\n to conert lower case:")
+print(text.lower())
+print("\n to split given string:")
+word=(text.split())
+print(word)
+print("\n title of string:")
+print(text.title())
+print(list(reversed(text)))
